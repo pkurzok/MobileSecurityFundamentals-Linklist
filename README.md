@@ -21,3 +21,6 @@
 **Third Party Frameworks:**
 
 - [KeychainAccess](https://github.com/kishikawakatsumi/keychainaccess)
+
+**Conference Talks:**
+- [DeviceCheck: Securing your App’s Communication](https://www.youtube.com/watch?v=iucdTgH0Jwo)
