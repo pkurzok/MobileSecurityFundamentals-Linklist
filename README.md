@@ -14,6 +14,7 @@
 **Apple Documentation:**
 
 - [Keychain Services](https://developer.apple.com/documentation/security/keychain-services)
+- [Detailed Keychain Guidance](https://developer.apple.com/forums/thread/724013)
 - [Info.plist Identity Pinnig](https://developer.apple.com/news/?id=g9ejcf8y)
 - [DCAppAttestService](https://developer.apple.com/documentation/devicecheck/dcappattestservice)
 - [ASWebAuthenticationSession](https://developer.apple.com/documentation/authenticationservices/aswebauthenticationsession)
