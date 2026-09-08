@@ -26,3 +26,4 @@
 
 **Conference Talks:**
 - [DeviceCheck: Securing your App’s Communication](https://www.youtube.com/watch?v=iucdTgH0Jwo)
+- [Mobile Security Fundamentals: Build Apps That Fight Back](https://speakerdeck.com/pkurzok/mobile-security-fundamentals-build-apps-that-fight-back)
